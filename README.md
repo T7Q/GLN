@@ -1,5 +1,8 @@
 # Get_Next_Line - @HiveHelsinki
+
 **Get Next Line is a project at Hive Helsinki coding school.**
+
+![alt text](https://user-images.githubusercontent.com/49685048/71586078-91e76e80-2b21-11ea-8156-c9f013ad8302.png)
 
 This projects is about creating a function that, allows to read a line ending with a newline character ('\n') from a file descriptor, without knowing its size beforehand. 
 
